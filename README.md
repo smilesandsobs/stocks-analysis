@@ -8,7 +8,6 @@ This is an analysis of a dataset of thousands of Green Energy Stocks for a frien
 The purpose of this analysis was to compare the green energy stock DAQO, in which Steves parents were currently invested, with other green energy stocks. Looking at their total volume and return for the periods of 2017 and 2018. This could help inform Steve how best to advise his parents to invest their money while following their values and investing sustainably.  
   
 ### Results
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 The results of this project were a script which allows the user to get the wanted information in a very short period of time. 
 
@@ -22,7 +21,7 @@ The results of this project were a script which allows the user to get the wante
 
 #### Time-Stamp for 2018 Analysis 
 
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2018/CodeRun-2018.png)
 
 #### Stock Analysis 2018 
 
