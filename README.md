@@ -3,15 +3,15 @@
 
 ### Overview of this project
 
-Analysis of a dataset of thousands of stocks.
+This is an analysis of a dataset of thousands of Green Energy Stocks for a friends (Steve) parents. Using Excels VBA or Visual Basic for Applications I have scriped code which will loop through pulling out data for 12 different tickers (stocks).  
 
-
-
-Explain the purpose of this analysis.
-    
+The purpose of this analysis was to compare the green energy stock DAQO, in which Steves parents were currently invested, with other green energy stocks. Looking at their total volume and return for the periods of 2017 and 2018. This could help inform Steve how best to advise his parents to best invest their money.  
+  
   
 ### Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
+The results of this project were 
 
 
 #### Stock Analysis 2017 
