@@ -35,23 +35,21 @@ Then creating a ticker index and three output arrays
 
 ![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/Ticker%20Index%20and%20output%20arrays.png) 
 
-Lopping through all of the data
+Lopping through all of the data, checking if the current row is the first row and then checking for the last row and increasing the tickerIndex. 
 
 ![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/Loop%20over%20all%20rows.png) 
 
-Finally 
+Finally outputting the data to the columns in the spreadsheet. 
 
-
-![This is an image]() 
-
-
-
-
-
+![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/output%20data.png) 
 
 ### Summary
 
-In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+As this was a large amount of data, filtering through all of it with VBA was time effective and created a tool which can be used again in future to analyze these same stocks for new data for example additional years like 2021, 2022, etc.   
+
+VBA is challenging as there do not appear to be a lot of debugging tools. Typos can break the code and there does not seem to be any tool in the system to help warn you if something is undefined. 
+
+Re-using and refactoring code seems to be a common way to save time and work. As much of code needs to be formatted the same way, working off of and building and restructuring existing code can be an effective way to produce a final produce without starting from scratch. 
+
+It is still important to read through all of the code and be able to understanding it though, otherwise it is difficult to debug and get to a workable script. 
 
