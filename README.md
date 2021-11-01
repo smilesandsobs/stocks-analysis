@@ -12,7 +12,7 @@ Using images and examples of your code, compare the stock performance between 20
 ! (https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/Stock%20Analysis-%202017.png)
 
 
-! () 
+! (https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2018/stock%20analysis-%202018.png) 
 
 ### Summary
 
