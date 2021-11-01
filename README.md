@@ -37,11 +37,12 @@ Then creating a ticker index and three output arrays
 
 Lopping through all of the data
 
-![This is an image]() 
+![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/Loop%20over%20all%20rows.png) 
 
 Finally 
 
 
+![This is an image]() 
 
 
 
