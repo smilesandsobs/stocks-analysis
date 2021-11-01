@@ -27,12 +27,17 @@ The results of this project was a script which allows the user to get the wanted
 
 ![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2018/stock%20analysis-%202018.png) 
 
-The code includes some basic formatting of the sheet with the listed index of tickers
+The code include creating the header and listed index of tickers.
+
+![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/Header%20row%20%26%20Initialized%20array%20of%20tickers.png) 
+
+Then creating a ticker index and three output arrays 
 
 ![This is an image]() 
 
 
-The return percentage was calculated by 
+The return percentage was calculated by
+
 
 
 
