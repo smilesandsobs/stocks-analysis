@@ -3,6 +3,10 @@
 
 ### Overview of this project
 
+Analysis of a dataset of thousands of stocks.
+
+
+
 Explain the purpose of this analysis.
     
   
