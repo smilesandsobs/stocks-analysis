@@ -9,7 +9,7 @@ Explain the purpose of this analysis.
 ### Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-! /Resources/VBA_Challenge_2017/Stock_Analysis-2017.png
+! /main/Resources/VBA_Challenge_2017/Stock_Analysis-2017.png
 
 ### Summary
 
