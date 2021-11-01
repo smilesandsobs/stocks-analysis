@@ -33,10 +33,13 @@ The code include creating the header and listed index of tickers.
 
 Then creating a ticker index and three output arrays 
 
+![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/Ticker%20Index%20and%20output%20arrays.png) 
+
+Lopping through all of the data
+
 ![This is an image]() 
 
-
-The return percentage was calculated by
+Finally 
 
 
 
