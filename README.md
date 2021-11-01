@@ -14,8 +14,7 @@ The results of this project were a script which allows the user to get the wante
 
 #### Time-Stamp for 2017 Analysis 
 
-![This is an image]()
-
+![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/CodeRun-%202017.png)
 
 
 #### Stock Analysis 2017 
