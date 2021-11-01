@@ -10,16 +10,19 @@ The purpose of this analysis was to compare the green energy stock DAQO, in whic
 ### Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-The results of this project were a script which allows the user to get the wanted inforamtion in a very short period of time. 
+The results of this project were a script which allows the user to get the wanted information in a very short period of time. 
 
 #### Time-Stamp for 2017 Analysis 
 
 ![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/CodeRun-%202017.png)
 
-
 #### Stock Analysis 2017 
 
 ![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2017/Stock%20Analysis-%202017.png)
+
+#### Time-Stamp for 2018 Analysis 
+
+![This is an image]()
 
 #### Stock Analysis 2018 
 
