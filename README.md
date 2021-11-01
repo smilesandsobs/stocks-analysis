@@ -9,7 +9,7 @@ The purpose of this analysis was to compare the green energy stock DAQO, in whic
   
 ### Results
 
-The results of this project were a script which allows the user to get the wanted information in a very short period of time. 
+The results of this project was a script which allows the user to get the wanted information in a very short period of time. 
 
 #### Time-Stamp for 2017 Analysis 
 
@@ -26,6 +26,19 @@ The results of this project were a script which allows the user to get the wante
 #### Stock Analysis 2018 
 
 ![This is an image](https://github.com/smilesandsobs/stocks-analysis/blob/main/Resources/VBA_Challenge_2018/stock%20analysis-%202018.png) 
+
+The code includes some basic formatting of the sheet with the listed index of tickers
+
+![This is an image]() 
+
+
+The return percentage was calculated by 
+
+
+
+
+
+
 
 ### Summary
 
